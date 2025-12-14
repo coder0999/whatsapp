@@ -1,0 +1,19 @@
+{
+  "name": "my-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "firebase-admin": "^13.6.0",
+    "pino": "^9.9.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
